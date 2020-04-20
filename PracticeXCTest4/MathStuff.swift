@@ -10,6 +10,9 @@
 import Foundation
 
 class MathStuff {
+    
+// Some basic functions to test
+    
     func addNumbers(x: Int, y:Int) -> Int {
         return x + y
     }
